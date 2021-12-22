@@ -99,6 +99,3 @@ Portfólio
 
 https://www.lombanderson.epizy.com
 
-# Agradecimentos
-
-Agradeço sobretudo a Deus e a minha esposa, minha companheira que torce muito por mim sempre!
