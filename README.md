@@ -87,3 +87,18 @@ GET => http://18.230.78.187:3333/encripts/1
       "encripted_name": "Segunda mensagem"
     }
     ```
+    
+# Autor:
+Anderson Lomba de Oliveira
+
+Linkedin
+
+https://www.linkedin.com/in/anderson-lomba-140279142/
+
+Portfólio
+
+https://www.lombanderson.epizy.com
+
+# Agradecimentos
+
+Agradeço sobretudo a Deus e a minha esposa, minha companheira que torce muito por mim sempre!
